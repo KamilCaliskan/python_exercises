@@ -1,5 +1,9 @@
 '''
 You can implement the array_diff function in Python using a list comprehension
+
+array_diff fonksiyonu, iki liste arasındaki farkı bulmayı amaçlayan bir Python fonksiyonudur
+İki liste verilir: a ve b. Fonksiyon, a listesinden b listesinde bulunan tüm öğeleri çıkararak yeni bir liste döndürür
+Eğer a listesinde bir öğe b listesinde varsa, tüm bu öğeler a listesinden çıkarılır
 '''
 
 
