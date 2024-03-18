@@ -1,7 +1,4 @@
 
-
-
-
 def split_and_join(line):
     # Split the input string on a space delimiter
     words = line.split(" ")
