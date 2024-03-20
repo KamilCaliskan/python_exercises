@@ -1,5 +1,6 @@
 import math
 
+
 AB = int(input())
 BC = int(input())
 
