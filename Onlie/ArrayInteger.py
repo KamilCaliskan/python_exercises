@@ -19,7 +19,6 @@ print(result)
 
 
 
-
 '''
 Sure, let's break down each step:
 
