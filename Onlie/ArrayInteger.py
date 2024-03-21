@@ -17,6 +17,9 @@ set_B = set(map(int, input().split()))
 result = calculate_happiness(array, set_A, set_B)
 print(result)
 
+
+
+
 '''
 Sure, let's break down each step:
 
